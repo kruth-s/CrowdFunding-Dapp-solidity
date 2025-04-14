@@ -1,7 +1,5 @@
 📄 README.md
-markdown
-Copy
-Edit
+
 # 🪙 CrowdFunding DApp
 
 A fully functional **Decentralized Crowdfunding Application** built using **Solidity**, **Hardhat**, **React**, and **Ethers.js**. Users can fund campaigns using **MetaMask**, and campaign owners can withdraw funds upon reaching the goal. Refunds are automatically enabled if the deadline expires without reaching the target.
