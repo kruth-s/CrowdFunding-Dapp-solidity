@@ -63,6 +63,7 @@ Copy
 Edit
 cd backend
 npx hardhat compile
+npx hardhat node
 npx hardhat run scripts/deploy.js --network sepolia
 Copy the deployed contract address and paste it into your frontend’s config.
 
