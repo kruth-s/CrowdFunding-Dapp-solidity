@@ -42,9 +42,7 @@ A fully functional **Decentralized Crowdfunding Application** built using **Soli
 git clone https://github.com/Kruthik-S/CrowdFunding-Dapp-solidity.git
 cd CrowdFunding-Dapp-solidity
 2. Install Dependencies
-bash
-Copy
-Edit
+
 cd backend
 npm install
 cd ../frontend
@@ -64,9 +62,7 @@ npx hardhat run scripts/deploy.js --network sepolia
 Copy the deployed contract address and paste it into your frontend’s config.
 
 5. Start the Frontend
-bash
-Copy
-Edit
+
 cd frontend
 npm start
 💡 How It Works
@@ -82,9 +78,7 @@ Ensure MetaMask is installed and connected to the Sepolia testnet. On your first
 ✅ Test Cases (Hardhat)
 Inside test/ folder:
 
-bash
-Copy
-Edit
+
 npx hardhat test
 Covers:
 
