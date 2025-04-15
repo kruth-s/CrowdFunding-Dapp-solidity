@@ -6,12 +6,12 @@ A fully functional **Decentralized Crowdfunding Application** built using **Soli
 
 ## 🚀 Features
 
-- 🤑 Users can contribute ETH to a campaign.
-- ⏳ Deadlines ensure funds are raised within a set time.
-- ✅ Automatic goal check — marks campaign complete once goal is met.
-- 💸 Refund system if funding goal isn't met by the deadline.
-- 🔐 Only campaign owner can withdraw funds.
-- 🦊 MetaMask integration for transactions.
+- Users can contribute ETH to a campaign.
+- Deadlines ensure funds are raised within a set time.
+- Automatic goal check — marks campaign complete once goal is met.
+- Refund system if funding goal isn't met by the deadline.
+- Only campaign owner can withdraw funds.
+- MetaMask integration for transactions.
 
 ---
 
