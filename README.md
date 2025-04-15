@@ -65,17 +65,17 @@ Copy the deployed contract address and paste it into your frontend’s config.
 
 cd frontend
 npm start
-💡 How It Works
+How It Works
 funding() allows users to contribute ETH.
 
 withdraw() allows the campaign owner to collect the funds if goal is reached.
 
 refund() allows users to reclaim their ETH if deadline passes and goal not met.
 
-🔐 MetaMask Connection
+ MetaMask Connection
 Ensure MetaMask is installed and connected to the Sepolia testnet. On your first visit, MetaMask will prompt for connection approval.
 
-✅ Test Cases (Hardhat)
+Test Cases (Hardhat)
 Inside test/ folder:
 
 
@@ -88,6 +88,6 @@ Withdraw by owner
 
 Refund after deadline
 
-📝 License
+License
 MIT License © 2025 Kanu Prieya Kavya Garg Kruthik S 
 
