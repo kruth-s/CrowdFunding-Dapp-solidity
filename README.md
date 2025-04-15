@@ -50,17 +50,13 @@ npm install
 cd ../frontend
 npm install
 3. Create .env file (inside backend/)
-bash
-Copy
-Edit
+
 ALCHEMY_API_KEY=your_alchemy_key
 PRIVATE_KEY=your_private_key
-⚠️ Never commit your .env file to GitHub!
+
 
 4. Compile and Deploy Contracts
-bash
-Copy
-Edit
+
 cd backend
 npx hardhat compile
 npx hardhat node
