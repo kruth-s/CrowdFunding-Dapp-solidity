@@ -1,10 +1,10 @@
-# 🪙 CrowdFunding DApp
+#  CrowdFunding DApp
 
 A fully functional **Decentralized Crowdfunding Application** built using **Solidity**, **Hardhat**, **React**, and **Ethers.js**. Users can fund campaigns using **MetaMask**, and campaign owners can withdraw funds upon reaching the goal. Refunds are automatically enabled if the deadline expires without reaching the target.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Users can contribute ETH to a campaign.
 - Deadlines ensure funds are raised within a set time.
@@ -15,7 +15,7 @@ A fully functional **Decentralized Crowdfunding Application** built using **Soli
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - **Solidity** – Smart contracts
 - **Hardhat** – Smart contract development & testing
@@ -26,7 +26,7 @@ A fully functional **Decentralized Crowdfunding Application** built using **Soli
 
 ---
 
-## 📷 Screenshots
+##  Screenshots
 
 | Contribute ETH | Success Status | Etherscan Verification |
 |----------------|------------------|-------------------|
@@ -34,7 +34,7 @@ A fully functional **Decentralized Crowdfunding Application** built using **Soli
 
 ---
 
-## 🛠️ Local Setup
+##  Local Setup
 
 ### 1. Clone the Repo
 
